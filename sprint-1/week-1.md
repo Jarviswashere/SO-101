@@ -10,7 +10,7 @@ Goal of the week: everything ordered, Mac ready, one full training flow seen fro
 - [ ] Daily log
 
 ## Sat Sep 19 (Day 2)
-- [ ] Create accounts: GitHub, Hugging Face, Google Colab Pro
+- [~] Create accounts: GitHub and Hugging Face exist, Colab Pro to confirm
 - [ ] Join the LeRobot Discord and read the SO-101 channel for 20 minutes
 - [x] Install Homebrew and Miniforge
 - [x] Install LeRobot using the official macOS guide
@@ -18,7 +18,7 @@ Goal of the week: everything ordered, Mac ready, one full training flow seen fro
 - [ ] Daily log
 
 ## Sun Sep 20 (Day 3)
-- [ ] Create GitHub repo for build 1 and push this folder structure
+- [x] Create GitHub repo for build 1 and push this folder structure (github.com/Jarviswashere/SO-101, Sep 24)
 - [ ] First X post: "Day 1, building robots from Pune" (use templates/x-post.md)
 - [ ] Follow 20 builders who post code and failures
 - [ ] Weekly review (short, first one)
@@ -50,7 +50,7 @@ Goal of the week: everything ordered, Mac ready, one full training flow seen fro
 - [ ] All parts ordered
 - [x] LeRobot installed and working on the Mac
 - [ ] One Colab training run finished
-- [ ] Repo public, first post live
+- [~] Repo public (Sep 24), first post not yet
 
 ## Week 1 notes (written Sep 24 from Tony's update)
 - Printer: Bambu Lab X2D Combo, delivered Sep 13, assembled Sep 14 with the unboxing video. No spool included. First refill order came without spools, reordered with reusable spools, first test print Sep 17.
