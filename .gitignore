@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Secrets and env
+.env
+.env.*
+!.env.example
+*.token
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+outputs/
+
+# Large data: datasets, videos, model weights. These go to Hugging Face Hub, not git.
+build-*/data-notes/**/*.parquet
+build-*/media/**/*.mp4
+build-*/media/**/*.mov
+build-*/media/**/*.MP4
+*.safetensors
+*.ckpt
+*.pt
+
+# Upstream SO-ARM100 download (262 MB of STL and STEP). Source: https://github.com/TheRobotStudio/SO-ARM100
+SO-ARM100-main/
